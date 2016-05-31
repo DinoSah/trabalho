@@ -1,5 +1,6 @@
 #include <iostream.h>
 #include <stdio.h>
+// Cria uma moldura com o simbolo escolhido, dado altura e largura pelo usuário//
 int main ()
 {
  int i, j, x, y ;
